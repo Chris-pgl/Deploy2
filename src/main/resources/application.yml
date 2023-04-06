@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/testhybernate
     username: developer
-    password: Cris1997
+    password:
 server:
   port: 7070
 jpa:
@@ -22,7 +22,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/testhybernate
     username: developer
-    password: Cris1997
+    password:
 server:
   port: 4000
 jpa:
